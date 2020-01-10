@@ -2,7 +2,7 @@
 A clone of the social network Twitter
 
 It was used the following technologies:
-HTML, CSS, Javascript, JQuery, PHP & MySQL.
+HTML, CSS, Javascript, JQuery, Ajax, PHP & MySQL.
 
 ## Index
 <img src=imagens/index.png>
